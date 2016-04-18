@@ -1,7 +1,4 @@
 # wsp
-
-A tool for 
-
 This is a tool which can automatically generate a PEPA model for a given generalized k-out-of-n: G warm standby system by following the generation rules introduced in the following paper:
 
 Availability Modeling of Generalized k-out-of-n: G Warm Standby Systems With PEPA, Xiaoyue Wu, Jane Hillston, Cheng Feng, IEEE TRANSACTIONS ON SYSTEMS, MAN, AND CYBERNETICS: SYSTEMS.
